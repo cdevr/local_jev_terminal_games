@@ -1,3 +1,7 @@
+[![Screen recording preview](preview.gif)](<Screen Recording 2026-10-02 at 21.16.54 - last 5 minutes.webm>)
+
+[Watch the full screen recording](<Screen Recording 2026-10-02 at 21.16.54 - last 5 minutes.webm>)
+
 # Local games with decision models: local_jev_terminal_games
 Use JEV type model to play a terminal game with directions (up-down, left-right)
 
@@ -53,10 +57,5 @@ Wrote a script to use unholy tmux-magic and hacks to play a terminal game. I kno
 ```
 ./2048_decision.sh
 ```
-
-<video controls preload="metadata" width="800">
-  <source src="Screen%20Recording%202026-10-02%20at%2021.16.54%20-%20last%205%20minutes.webm" type="video/webm">
-  <a href="Screen%20Recording%202026-10-02%20at%2021.16.54%20-%20last%205%20minutes.webm">Watch the screen recording</a>
-</video>
 
 Yeah, open models don't do super-well on this. Also I know this doesn't follow a lot of conventions and disclosure: AI was used in making both this file and the scripts (I'm only including the 2048 script since the tetris script really screws up)
